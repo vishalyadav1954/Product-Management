@@ -1,0 +1,42 @@
+.mta{
+	margin:auto;
+	font-size:24px;
+	width:90%; 
+}
+.dv{
+	text-align: center;
+	margin-top:50px;
+}
+.dvv{
+	text-align: center;
+	margin-top:20px;
+}
+.fta{
+	margin: auto;
+	border:3px solid silver;
+	font-size:23px;
+	margin-top:50px;
+}
+.pad{
+	padding:15px;
+}
+.tb{
+	font-size:20px;
+	width:300px;
+}
+.bt{
+	font-size:20px;
+	padding:4px 15px;
+	color:white;
+	background-color: #0044FF;
+	border:none;
+	cursor: pointer;
+	border-radius: 5px;	
+}
+.rta{
+	margin:auto;
+	font-size:20px;
+	width:60%;
+	border-collapse: collapse;
+	margin-top: 30px; 
+}
